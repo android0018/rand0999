@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+.boxcontainer {
+    display: flex;
+}
+.logincontainer {
+    width: 440px;
+    margin: 90px auto;
+    background-color: white;
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+.signupcontainer {
+    width: 440px;
+    margin: 90px auto;
+    text-align: center;
+    background-color: white;
+    justify-content: center;
+    padding: 110px 20px 0px 20px;
+}
